@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12511957878",
+    "project_id": "glow-store-d9088",
+    "storage_bucket": "glow-store-d9088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12511957878:android:1023766826d0bf52cd2057",
+        "android_client_info": {
+          "package_name": "com.kaifshk17.GlowStore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRFTj-wpz23iGalks9QPaNxjzTJa3KoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
